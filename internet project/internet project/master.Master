@@ -4,16 +4,39 @@
 
 <html>
 <head runat="server">
+    <link href="masterCss.css" rel="stylesheet" />
+    >
     <title></title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
 <body>
+    <div class="topnav">
+        <h><%= name %></h>
+        <h>users:<%= usersCounter%></h>
+        <a href="SignUp.aspx">Sign Up</a>
+        <a href="LogIn.aspx">Log In</a>
+        <a href="Home.aspx">Home</a>
+        <a href="users.aspx">users</a>
+        <a href="editProfile.aspx">edit profile</a>
+        <a style="float: right;" href="LogOut.aspx">Log Out</a>
+        <%= adminPage %>
+
+        <a href="content1.aspx">content1</a>
+        <a href="content2.aspx">content2</a>
+        <a href="content3.aspx">content3</a>
+            
+       
+    </div>
     
         <div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+              
+
             </asp:ContentPlaceHolder>
         </div>
+  
     
 </body>
 </html>
+
