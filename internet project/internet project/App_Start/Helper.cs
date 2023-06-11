@@ -5,16 +5,10 @@ using System.Data;
 using System.Linq;
 using System.Web;
 
-/// <summary>
-/// מחלקה המהווה ממשק בין האפליקציה לבסיס הנתונים
-/// DataBase Type: Microsoft SQL Server Database File (SqlClient)
-/// The Database file should be located in the folder: App_Data
-/// </summary>
-namespace internet_project.App_Start
+namespace Internet_Project.App_Start
 {
     public class Helper
     {
-
         public static SqlConnection ConnectToDb(string fileName)
         {
             /// <summary>
@@ -22,7 +16,7 @@ namespace internet_project.App_Start
             /// הפעולה מייצרת ומחזירה אוביקט קישור לבסיס הנתונים
             /// </summary>
 
-            string path = HttpContext.Current.Server.MapPath("App_Data/"); //מיקום מסד הפרוייקט
+            string path = HttpContext.Current.Server.MapPath("../App_Data/"); //מיקום מסד הפרוייקט
             path += fileName;
 
             string connString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=" + path + ";Integrated Security=True";
@@ -81,6 +75,5 @@ namespace internet_project.App_Start
 
             return dt;
         }
-
     }
 }

@@ -1,0 +1,32 @@
+﻿
+input[type=text], input[type=password], input[type="email"], input[type="number"] {
+    outline: 5px;
+    outline-color: black;
+    width: 15%;
+    padding: 7px;
+    margin: 1px 0 10px 0;
+    display: inline-block;
+    background: #f1f1f1;
+}
+
+input[type=submit] {
+    padding: 1em;
+    background: #333;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-weight: 600;
+}
+
+input[type=submit]:hover {
+        opacity: 0.4;
+}
+
+select {
+    width: 4%;
+    padding: 7px;
+    margin: 1px 0 10px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}

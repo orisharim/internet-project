@@ -7,12 +7,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{43BB34C3-35AC-4C8B-9E1B-81BFDD65D269}</ProjectGuid>
+    <ProjectGuid>{43FE9D38-68FF-4996-AB38-E4329E74C82F}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>internet_project</RootNamespace>
-    <AssemblyName>internet project</AssemblyName>
+    <RootNamespace>Internet_Project</RootNamespace>
+    <AssemblyName>Internet Project</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
@@ -67,111 +67,126 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="adminPage.aspx" />
     <Content Include="App_Data\users.mdf" />
     <Content Include="App_Data\users_log.ldf">
       <DependentUpon>users.mdf</DependentUpon>
     </Content>
-    <Content Include="content1.aspx" />
-    <Content Include="content2.aspx" />
-    <Content Include="content3.aspx" />
-    <Content Include="editProfile.aspx" />
+    <Content Include="aspx\adminPage.aspx" />
+    <Content Include="aspx\LinkedList.aspx" />
+    <Content Include="aspx\Stack.aspx" />
+    <Content Include="aspx\Tree.aspx" />
+    <Content Include="aspx\deleteUser.aspx" />
+    <Content Include="aspx\editProfile.aspx" />
+    <Content Include="aspx\LogIn.aspx" />
+    <Content Include="aspx\LogOut.aspx" />
+    <Content Include="aspx\users.aspx" />
+    <Content Include="css\masterCss.css" />
+    <Content Include="css\SignUpCss.css" />
     <Content Include="Global.asax" />
-    <Content Include="Home.aspx" />
-    <Content Include="masterCss.css" />
-    <Content Include="users.aspx" />
+    <Content Include="aspx\Home.aspx" />
+    <Content Include="aspx\SignUp.aspx" />
+    <Content Include="js\EditProfile.js" />
+    <Content Include="js\LogInValidation.js" />
+    <Content Include="js\SignUpValidation.js" />
+    <Content Include="photos\p.png" />
+    <Content Include="photos\r.png" />
+    <Content Include="photos\s.png" />
     <Content Include="Web.config" />
-    <Content Include="SignUp.aspx" />
-    <Content Include="LogIn.aspx" />
-    <Content Include="LogOut.aspx" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="adminPage.aspx.cs">
-      <DependentUpon>adminPage.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="adminPage.aspx.designer.cs">
-      <DependentUpon>adminPage.aspx</DependentUpon>
-    </Compile>
     <Compile Include="App_Start\Helper.cs" />
-    <Compile Include="content1.aspx.cs">
-      <DependentUpon>content1.aspx</DependentUpon>
+    <Compile Include="aspx\adminPage.aspx.cs">
+      <DependentUpon>adminPage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="content1.aspx.designer.cs">
-      <DependentUpon>content1.aspx</DependentUpon>
+    <Compile Include="aspx\adminPage.aspx.designer.cs">
+      <DependentUpon>adminPage.aspx</DependentUpon>
     </Compile>
-    <Compile Include="content2.aspx.cs">
-      <DependentUpon>content2.aspx</DependentUpon>
+    <Compile Include="aspx\LinkedList.aspx.cs">
+      <DependentUpon>LinkedList.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="content2.aspx.designer.cs">
-      <DependentUpon>content2.aspx</DependentUpon>
+    <Compile Include="aspx\LinkedList.aspx.designer.cs">
+      <DependentUpon>LinkedList.aspx</DependentUpon>
     </Compile>
-    <Compile Include="content3.aspx.cs">
-      <DependentUpon>content3.aspx</DependentUpon>
+    <Compile Include="aspx\Stack.aspx.cs">
+      <DependentUpon>Stack.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="content3.aspx.designer.cs">
-      <DependentUpon>content3.aspx</DependentUpon>
+    <Compile Include="aspx\Stack.aspx.designer.cs">
+      <DependentUpon>Stack.aspx</DependentUpon>
     </Compile>
-    <Compile Include="editProfile.aspx.cs">
+    <Compile Include="aspx\Tree.aspx.cs">
+      <DependentUpon>Tree.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aspx\Tree.aspx.designer.cs">
+      <DependentUpon>Tree.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="aspx\deleteUser.aspx.cs">
+      <DependentUpon>deleteUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aspx\deleteUser.aspx.designer.cs">
+      <DependentUpon>deleteUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="aspx\editProfile.aspx.cs">
       <DependentUpon>editProfile.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="editProfile.aspx.designer.cs">
+    <Compile Include="aspx\editProfile.aspx.designer.cs">
       <DependentUpon>editProfile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="aspx\LogIn.aspx.cs">
+      <DependentUpon>LogIn.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aspx\LogIn.aspx.designer.cs">
+      <DependentUpon>LogIn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="aspx\LogOut.aspx.cs">
+      <DependentUpon>LogOut.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aspx\LogOut.aspx.designer.cs">
+      <DependentUpon>LogOut.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="aspx\users.aspx.cs">
+      <DependentUpon>users.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aspx\users.aspx.designer.cs">
+      <DependentUpon>users.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Home.aspx.cs">
+    <Compile Include="aspx\Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Home.aspx.designer.cs">
+    <Compile Include="aspx\Home.aspx.designer.cs">
       <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="aspx\master.Master.cs">
+      <DependentUpon>master.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aspx\master.Master.designer.cs">
+      <DependentUpon>master.Master</DependentUpon>
+    </Compile>
+    <Compile Include="aspx\SignUp.aspx.cs">
+      <DependentUpon>SignUp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aspx\SignUp.aspx.designer.cs">
+      <DependentUpon>SignUp.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="master.Master.cs">
-      <DependentUpon>master.Master</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="master.Master.designer.cs">
-      <DependentUpon>master.Master</DependentUpon>
-    </Compile>
-    <Compile Include="SignUp.aspx.cs">
-      <DependentUpon>SignUp.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="SignUp.aspx.designer.cs">
-      <DependentUpon>SignUp.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="LogIn.aspx.cs">
-      <DependentUpon>LogIn.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="LogIn.aspx.designer.cs">
-      <DependentUpon>LogIn.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="LogOut.aspx.cs">
-      <DependentUpon>LogOut.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="LogOut.aspx.designer.cs">
-      <DependentUpon>LogOut.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="users.aspx.cs">
-      <DependentUpon>users.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="users.aspx.designer.cs">
-      <DependentUpon>users.aspx</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="aspx\master.Master" />
     <None Include="packages.config" />
-    <Content Include="master.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -193,9 +208,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>51295</DevelopmentServerPort>
+          <DevelopmentServerPort>64238</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:51295/</IISUrl>
+          <IISUrl>http://localhost:64238/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

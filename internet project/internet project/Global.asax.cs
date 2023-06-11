@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Security;
 using System.Web.SessionState;
 
-namespace internet_project
+namespace Internet_Project.aspx
 {
     public class Global : System.Web.HttpApplication
     {
@@ -19,7 +19,7 @@ namespace internet_project
         {
             Session["username"] = "guest";
             Session["admin"] = false;
-            
+
         }
 
         protected void Application_BeginRequest(object sender, EventArgs e)

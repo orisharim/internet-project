@@ -1,177 +1,118 @@
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\internet project.dll.config
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\internet project.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\internet project.pdb
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\csc.exe
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\csc.exe.config
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\csc.rsp
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\csi.exe
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\csi.exe.config
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\csi.rsp
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.AppContext.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Console.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.IO.Compression.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Net.Http.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Net.Sockets.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.ValueTuple.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Xml.XPath.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\vbc.exe
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\vbc.exe.config
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\vbc.rsp
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\VBCSCompiler.exe
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\obj\Debug\internet project.csproj.AssemblyReference.cache
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\obj\Debug\internet project.csproj.CoreCompileInputs.cache
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\obj\Debug\internet project.csproj.CopyComplete
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\obj\Debug\internet project.dll
-C:\Users\orish\Documents\vscode projects\internet\internet-project\internet project\internet project\obj\Debug\internet project.pdb
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\internet project.dll.config
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\internet project.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\internet project.pdb
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\csc.exe
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\csc.exe.config
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\csc.rsp
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\csi.exe
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\csi.exe.config
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\csi.rsp
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.AppContext.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Console.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.IO.Compression.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Net.Http.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Net.Sockets.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.ValueTuple.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Xml.XPath.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\vbc.exe
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\vbc.exe.config
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\vbc.rsp
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\VBCSCompiler.exe
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\obj\Debug\internet project.csproj.AssemblyReference.cache
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\obj\Debug\internet project.csproj.CoreCompileInputs.cache
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\obj\Debug\internet project.csproj.CopyComplete
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\obj\Debug\internet project.dll
-C:\Users\lab3\Downloads\internet-project-master\internet-project-master\internet project\internet project\obj\Debug\internet project.pdb
-C:\Users\orish\source\repos\internet project\internet project\bin\internet project.dll.config
-C:\Users\orish\source\repos\internet project\internet project\bin\internet project.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\internet project.pdb
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\csc.exe
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\csc.exe.config
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\csc.rsp
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\csi.exe
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\csi.exe.config
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\csi.rsp
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.AppContext.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Console.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.IO.Compression.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Net.Http.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Net.Sockets.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.ValueTuple.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Xml.XPath.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\vbc.exe
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\vbc.exe.config
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\vbc.rsp
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\VBCSCompiler.exe
-C:\Users\orish\source\repos\internet project\internet project\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\orish\source\repos\internet project\internet project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\orish\source\repos\internet project\internet project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\orish\source\repos\internet project\internet project\obj\Debug\internet project.csproj.AssemblyReference.cache
-C:\Users\orish\source\repos\internet project\internet project\obj\Debug\internet project.csproj.CoreCompileInputs.cache
-C:\Users\orish\source\repos\internet project\internet project\obj\Debug\internet project.csproj.CopyComplete
-C:\Users\orish\source\repos\internet project\internet project\obj\Debug\internet project.dll
-C:\Users\orish\source\repos\internet project\internet project\obj\Debug\internet project.pdb
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\Internet Project.dll.config
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\Internet Project.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\Internet Project.pdb
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\csc.exe
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\csc.exe.config
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\csc.rsp
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\csi.exe
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\csi.exe.config
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\csi.rsp
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.AppContext.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Console.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Net.Http.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\vbc.exe
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\vbc.exe.config
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\vbc.rsp
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\obj\Debug\Internet Project.csproj.AssemblyReference.cache
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\obj\Debug\Internet Project.csproj.CoreCompileInputs.cache
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\obj\Debug\Internet Project.csproj.CopyComplete
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\obj\Debug\Internet Project.dll
+C:\Users\orish\OneDrive\שולחן העבודה\Internet Project\Internet Project\Internet Project\obj\Debug\Internet Project.pdb
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\Internet Project.dll.config
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\Internet Project.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\Internet Project.pdb
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\csc.exe
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\csc.exe.config
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\csc.rsp
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\csi.exe
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\csi.exe.config
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\csi.rsp
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.AppContext.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Console.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Net.Http.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\vbc.exe
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\vbc.exe.config
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\vbc.rsp
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\obj\Debug\Internet Project.csproj.AssemblyReference.cache
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\obj\Debug\Internet Project.csproj.CoreCompileInputs.cache
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\obj\Debug\Internet Project.csproj.CopyComplete
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\obj\Debug\Internet Project.dll
+C:\Users\orish\Downloads\Internet Project (2)\Internet Project\Internet Project\obj\Debug\Internet Project.pdb
